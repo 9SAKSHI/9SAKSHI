@@ -1,7 +1,7 @@
-[![MasterHead]("C:\Users\sakshi nimbalkar\Pictures\i speak data.html")
+[![MasterHead](https://i.pinimg.com/originals/c9/91/72/c99172c17b83d3c620b997858351b2a5.gif)]
 <h1 align="center">Hi 👋, I'm SAKSHI NIMBALKAR</h1>
 <h3 align="center">Data science and analysis enthusiast.</h3>
-<img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/302022718778206712/">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/b9/4c/d9/b94cd9acb4d0df1182bac2057ca3afac.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=9sakshi&label=Profile%20views&color=0e75b6&style=flat" alt="9sakshi" /> </p>
 
