@@ -1,4 +1,4 @@
-[![MasterHead](https://in.pinterest.com/pin/819303357237246620/)
+[![MasterHead]("C:\Users\sakshi nimbalkar\Pictures\i speak data.html")
 <h1 align="center">Hi 👋, I'm SAKSHI NIMBALKAR</h1>
 <h3 align="center">Data science and analysis enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://in.pinterest.com/pin/302022718778206712/">
