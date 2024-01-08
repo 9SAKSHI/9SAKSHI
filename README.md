@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=9sakshi&label=Profile%20views&color=0e75b6&style=flat" alt="9sakshi" /> </p>
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently exploring **Machine learning**
 
-- 💬 Ask me about **Data visualization **
+- 💬 Ask me about  **Data visualization** 
 
 - ⚡ I have proficiency in **Tableau and PowerBI**
 
