@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine learning**
 
-- 💬 Ask me about **Data visualization tools**
+- 💬 Ask me about **Data visualization **
 
 - ⚡ I have proficiency in **Tableau and PowerBI**
 
